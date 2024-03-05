@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    padding: 1em;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+
+}
+.navbar li{
+    margin: 10px;
+}
+.navbar a{
+    color: aliceblue;
+    text-decoration-line: none;
+    cursor: pointer;
+    
+}
+.navbar a:hover{
+    color: orange;
+    transition-duration: 0.7s;
+    
+}
+.navbar li:hover{
+    transition-duration: 0.7s;
+    transform: scale(1.3);
+}
+
+

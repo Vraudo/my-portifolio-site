@@ -1,0 +1,23 @@
+.Skill{
+    background: rgba(1, 9, 28, 0.75);
+    border-radius: 10px;
+    margin: 75px;
+    padding: 15px;
+}
+.Skill img{
+    height: 140px;
+    margin: 30px; 
+
+}
+.Skill img:hover{
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+}
+.Skill h1{
+    font-size: 45px;
+}
+.Skill p{
+    font-size: 25px;
+}
+
+

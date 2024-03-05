@@ -1,0 +1,13 @@
+
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.footer a{
+    color: aliceblue;
+    margin-right: 45px;
+
+}
+
