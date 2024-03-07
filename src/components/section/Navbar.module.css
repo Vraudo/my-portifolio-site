@@ -11,11 +11,13 @@
 }
 .navbar li{
     margin: 10px;
+    transition-duration: 0.7s;
 }
 .navbar a{
     color: aliceblue;
     text-decoration-line: none;
     cursor: pointer;
+    
     
 }
 .navbar a:hover{

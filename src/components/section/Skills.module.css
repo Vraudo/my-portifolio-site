@@ -7,7 +7,7 @@
 .Skill img{
     height: 140px;
     margin: 30px; 
-
+    transition-duration: 0.8s;
 }
 .Skill img:hover{
     transform: scale(1.2);
